@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 50%;
+}
+
+.invisible {
+    display: none;
+}
+
+@font-face {
+    font-family: 'Lcd';
+    src: url('/webfonts/LCDMN___.TTF');
+}
+
+.time {
+    font-family: Lcd, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: green;
+    margin-bottom: 10px;
+}
+
+.btn {
+    font-size: 30px;
+    color: white;
+    transition: 1s;
+}
+
+.start:hover {
+    color: green;
+}
+
+.pause:hover {
+    color: blue;
+}
+
+.reset:hover {
+    color: red;
+}
