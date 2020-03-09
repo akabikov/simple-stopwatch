@@ -23,8 +23,8 @@ body {
 }
 
 @font-face {
-    font-family: 'Lcd';
-    src: url('/webfonts/LCDMN___.TTF');
+    font-family: "Lcd";
+    src: url("../webfonts/lcd.ttf");
 }
 
 .time {
