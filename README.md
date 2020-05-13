@@ -21,6 +21,7 @@ You can view online demo here: https://akabikov.github.io/simple-stopwatch/
 
 ## Third-party resources
 * [Font Awesome](https://fontawesome.com/icons?d=gallery&s=solid&c=audio-video&m=free) - v5.13.0
+* [LCD Mono Font by Samuel Reynolds](https://fontsly.com/techno/lcd/lcd_lcd_mono)
 
 ## Setup
 Clone or download repository and start your local server in project directory.
